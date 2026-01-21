@@ -287,8 +287,5 @@ Com base nos documentos consultados, os conceitos listados abaixo representam o 
 
 ---
 
-## 📚 Relação com o Projeto
-
-Este documento integra a pasta `/resultados` e corresponde diretamente à execução dos prompts definidos em `/prompts/prompts_revisao.md`, atendendo ao resultado esperado do desafio proposto pela DIO.
-
----
+📁 Documento relacionado:  
+`/prompts/prompts_revisao.md`

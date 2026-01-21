@@ -264,3 +264,6 @@ As fontes indicam que a gestão de riscos e a análise de crédito dependem do e
 Este glossário tem finalidade **educacional**, sendo utilizado como material de consulta rápida e apoio à aprendizagem ativa com o uso de IA generativa, conforme a proposta do desafio da DIO.
 
 ---
+
+📁 Documento relacionado:  
+`/prompts/prompts_glossario.md`

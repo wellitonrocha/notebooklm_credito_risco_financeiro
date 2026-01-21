@@ -283,3 +283,6 @@ Embora tragam agilidade, os sistemas automáticos têm falhas:
 * Recomenda-se manter **consistência nos prompts** para facilitar comparações entre fontes.
 
 ---
+
+📁 Documento relacionado:  
+`/prompts/prompts_resumo.md`
